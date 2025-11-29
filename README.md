@@ -12,7 +12,11 @@ I’m building a strong data portfolio to upskill in **Data Analytics, Technical
 ### 1️⃣ Customer Orders Data Cleaning 
 **Skills:** Python, Pandas, Data Cleaning, Automation  
 Automated the billing workflow end-to-end: cleaned raw daily orders, computed customer-wise totals, and appended records into a ledger.  
-🔗 *Repo link coming soon*
+## 📓 Jupyter Notebook
+
+You can view the full notebook here:  
+👉 [Open Notebook](./Data_cleaning_basics.ipynb)
+
 
 
 ---
