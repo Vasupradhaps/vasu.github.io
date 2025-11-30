@@ -1,0 +1,121 @@
+Customer_Name,Product,Quantity,Unit_Price,Order_Date,City
+charlie ,hair oil,3 ,199.0,,Mumbai
+diana,Conditioner,,249.0,4-02-2024,delhi
+charlie ,SERUM,2,199.0,2024-09-10 00:00:00,Bangalore
+ALICE,Conditioner, two,199.0,2024-04-23 00:00:00,bangalore
+charlie ,Shampoo ,2,199.0,2024/5/14,Delhi
+alice , conditioner,3,199.0,,mumbai
+Eve,hair oil,3 ,299.0,2024-01-17 00:00:00,mumbai
+diana,Shampoo ,,,12-02-2024,bangalore
+alice ,hair oil,2,249.0,2024-03-10 00:00:00,Bangalore
+Charlie,Serum,1,,,mumbai
+diana,Shampoo,,249.0,,delhi
+bob,Conditioner,4,199.0,2024-01-23 00:00:00,Delhi
+charlie ,Shampoo ,,299.0,28-09-2024,Delhi
+Charlie,Shampoo ,4,249.0,2024/6/27,bangalore
+Alice,Shampoo,3 ,,25-01-2024,Delhi
+Diana,Shampoo ,2,249.0,2024-06-14 00:00:00,mumbai
+diana,Shampoo, two,249.0,28-04-2024,Delhi
+Eve,Conditioner,4,299.0,,mumbai
+Eve,Conditioner,4,299.0,2024/7/28,mumbai
+Eve,Conditioner, two,,,Delhi
+Bob, conditioner,4,249.0,12-06-2024,Delhi
+ALICE,SERUM, two,199.0,2-09-2024,Mumbai
+Charlie,Shampoo,2,,15-04-2024,Bangalore
+Diana,Hair Oil,4,199.0,,Bangalore
+charlie ,Serum, two,,12-05-2024,Delhi
+charlie ,Shampoo ,2,249.0,2024-08-14 00:00:00,Bangalore
+Diana,hair oil,3 ,,2024-07-08 00:00:00,bangalore
+Eve,Conditioner,3 ,199.0,,mumbai
+Diana,SERUM,3 ,199.0,2024-05-25 00:00:00,Delhi
+Bob,Serum,,299.0,1-08-2024,Delhi
+Bob,Shampoo ,1,199.0,,mumbai
+bob,Shampoo ,2,249.0,2024-05-23 00:00:00,Delhi
+Alice,Conditioner,1,249.0,26-09-2024,bangalore
+ALICE,Conditioner,2,199.0,2024-12-26 00:00:00,Mumbai
+charlie ,Shampoo ,2,249.0,,Delhi
+Bob,SERUM,,299.0,2024-02-12 00:00:00,Mumbai
+diana, conditioner, two,249.0,23-07-2024,mumbai
+Diana,Serum,3,299.0,2024/11/8,mumbai
+bob,Shampoo,2,249.0,2024/2/25,delhi
+ALICE, conditioner,2,249.0,2024-12-19 00:00:00,Delhi
+Charlie,Conditioner,3 ,299.0,,Delhi
+Alice,hair oil,3,,22-05-2024,Delhi
+bob,Serum,3 ,299.0,23-01-2024,Mumbai
+Diana, conditioner,3 ,199.0,2024/4/21,bangalore
+charlie , conditioner,3 ,299.0,2024/1/1,Delhi
+ALICE,Hair Oil,1,249.0,2024/10/18,Bangalore
+Diana, conditioner,3,,2024-05-06 00:00:00,bangalore
+alice ,Shampoo ,1,,,Bangalore
+Alice,Shampoo ,3 ,,16-05-2024,mumbai
+Diana,Shampoo ,3,299.0,10-09-2024,mumbai
+Eve,hair oil,,199.0,2024-01-07 00:00:00,Delhi
+Charlie,Shampoo ,3 ,249.0,2024-09-21 00:00:00,Bangalore
+Diana,Serum,1,249.0,13-01-2024,Bangalore
+Alice,SERUM, two,249.0,7-04-2024,bangalore
+diana,SERUM,,249.0,,mumbai
+Alice,hair oil,3,,2024/10/3,Mumbai
+diana,hair oil,3 ,299.0,2024/3/17,Bangalore
+alice ,SERUM,,199.0,2024-08-11 00:00:00,mumbai
+Charlie,Serum,3,,,Delhi
+Charlie,Serum,2,249.0,2024/11/22,bangalore
+Eve,Serum,,199.0,26-04-2024,bangalore
+bob,Shampoo,4,,1-03-2024,mumbai
+Eve,Shampoo,3 ,,,Mumbai
+Alice, conditioner,3,199.0,17-05-2024,mumbai
+charlie ,Shampoo, two,199.0,2024-03-01 00:00:00,bangalore
+bob,hair oil,3,,,Mumbai
+ALICE,Serum,2,,2024-11-23 00:00:00,mumbai
+diana,Conditioner,3,199.0,2024/6/3,mumbai
+ALICE,hair oil,4,199.0,2024/6/17,delhi
+diana,Shampoo ,3 ,249.0,2024/3/24,Bangalore
+Eve,SERUM,4,199.0,2024/11/7,delhi
+ALICE,Serum,2,199.0,2024/9/22,delhi
+Charlie,Shampoo ,3,249.0,,bangalore
+alice ,Shampoo,4,249.0,9-03-2024,mumbai
+Charlie,SERUM,2,299.0,,mumbai
+Bob,SERUM,3 ,,26-04-2024,mumbai
+ALICE,Shampoo ,4,,2024/8/21,mumbai
+charlie , conditioner,1,249.0,2-04-2024,delhi
+diana, conditioner,,299.0,,Delhi
+diana,Hair Oil,3,249.0,24-03-2024,Bangalore
+alice ,Shampoo, two,249.0,2024/7/26,Delhi
+Alice,Hair Oil, two,,,bangalore
+charlie ,SERUM,3 ,199.0,2024-08-19 00:00:00,Bangalore
+Charlie,Hair Oil,2,299.0,2024/4/8,mumbai
+bob,Shampoo ,4,299.0,15-02-2024,bangalore
+bob,Serum, two,249.0,1-04-2024,delhi
+alice ,Conditioner,,,2024/5/9,bangalore
+Diana,Shampoo,,199.0,,bangalore
+Eve,Shampoo ,3 ,,,Bangalore
+Bob,Shampoo,3,199.0,,Delhi
+ALICE,Conditioner,3,,2024/10/6,Bangalore
+ALICE,SERUM, two,299.0,23-03-2024,Bangalore
+Alice,Conditioner,3 ,199.0,2024/3/25,Mumbai
+Diana,Serum,1,249.0,2024-01-12 00:00:00,mumbai
+charlie ,Serum, two,199.0,2024-11-11 00:00:00,Bangalore
+Diana, conditioner,4,299.0,,Delhi
+ALICE,Shampoo,1,,,delhi
+bob,Serum,3 ,299.0,23-01-2024,Bangalore
+diana,Hair Oil,2,249.0,2024-02-20 00:00:00,bangalore
+Alice,Serum,2,249.0,2024-11-08 00:00:00,bangalore
+Alice,Hair Oil,2,199.0,12-01-2024,delhi
+Bob,SERUM,3,,2024-10-04 00:00:00,Delhi
+bob,Hair Oil,2,299.0,2024/7/15,delhi
+bob,Conditioner, two,,2024/2/9,Bangalore
+Alice,hair oil,1,249.0,2024-01-24 00:00:00,mumbai
+Alice,Serum, two,199.0,2024/12/23,Delhi
+alice ,Conditioner,2,299.0,2024/1/10,bangalore
+bob,Shampoo, two,199.0,18-05-2024,bangalore
+alice ,hair oil,2,299.0,2024-10-13 00:00:00,delhi
+bob,Shampoo,3 ,299.0,2024/5/10,bangalore
+Alice,hair oil,,199.0,27-07-2024,bangalore
+Eve,Conditioner,1,249.0,,bangalore
+Eve,Hair Oil,3 ,,,bangalore
+Charlie,Conditioner,3,,2024-02-15 00:00:00,Bangalore
+charlie ,Serum,,299.0,4-07-2024,mumbai
+Eve,SERUM,3,,2024/5/13,delhi
+Eve,hair oil, two,199.0,24-03-2024,bangalore
+ALICE,Serum,3,199.0,2024-10-14 00:00:00,bangalore
+alice ,Hair Oil,3 ,249.0,2024/11/15,Delhi
+Eve,Conditioner,2,199.0,8-05-2024,delhi
