@@ -13,10 +13,9 @@ I’m building a strong data portfolio to upskill in **Data Analytics, Technical
 **Skills:** Python, Pandas, Data Cleaning, Basic EDA and  Automation  
 Automated the billing workflow end-to-end: cleaned raw daily orders, computed customer-wise totals, and appended records into a ledger.  
 
-## 📓 Jupyter Notebook
+## 📓 Jupyter Notebook  
+👉 [Open the Notebook](./Data_cleaning_basics%20(1).ipynb)
 
-You can view the full notebook here:  
-👉 [Open Notebook](./Data_cleaning_basics(1).ipynb)
 
 
 ## 📂 Data
