@@ -17,6 +17,10 @@ Automated the billing workflow end-to-end: cleaned raw daily orders, computed cu
 You can view the full notebook here:  
 👉 [Open Notebook](./Data_cleaning_basics.ipynb)
 
+## 📂 Data
+
+Sample dataset used in this project is available in the `data/` folder.
+
 
 
 ---
