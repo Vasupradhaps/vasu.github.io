@@ -9,8 +9,8 @@ I’m building a strong data portfolio to upskill in **Data Analytics, Technical
 
 ## 🔥 Featured Projects
 
-### 1️⃣ Customer Orders Data Cleaning 
-**Skills:** Python, Pandas, Data Cleaning, Automation  
+### 1️⃣ Customer Orders Data Cleaning, Simple EDA and creating a resuable Data cleaning script
+**Skills:** Python, Pandas, Data Cleaning, Basic EDA and  Automation  
 Automated the billing workflow end-to-end: cleaned raw daily orders, computed customer-wise totals, and appended records into a ledger.  
 ## 📓 Jupyter Notebook
 
@@ -31,7 +31,9 @@ Sample dataset used in this project is available in the `data/` folder.
 - Pandas  
 
 ### 📊 Data Skills  
-- Data Cleaning  
+- Data Cleaning
+- Basic EDA
+- Writing a reusable function for data cleaning
 
 ### ⚙️ Tools  
 - Jupyter Notebook  
@@ -40,8 +42,9 @@ Sample dataset used in this project is available in the `data/` folder.
 ---
 
 ## 🚀 What I’m Working On
-- Building 10+ end-to-end Python data projects  
-- Creating automation scripts for real-world workflows  
+- Building end-to-end Python & SQL data projects  
+- Creating automation scripts for real-world workflows
+- Exploring AI and ML concepts
 
 ---
 
